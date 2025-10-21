@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+h2 {
+  color: #333;
+  font-weight: 600;
+}
+
+.btn-primary {
+  border-radius: .5rem;
+}
+
+.table input {
+  border: none;
+  background: transparent;
+  text-align: center;
+}
